@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-Yujia Sun is a undergraduate student of optical engineering at the Zhejiang University. Her research interests include perovskite solar cell, nanophotonics and light-matter interactions. She has consistently achieved excellent academic performance and published several scientific papers in relevant fields.
+Yujia Sun is an undergraduate student of optical engineering at the Zhejiang University. Her research interests include perovskite solar cell, nanophotonics and light-matter interactions. She has consistently achieved excellent academic performance and published several scientific papers in relevant fields.
