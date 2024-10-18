@@ -55,7 +55,7 @@ education:
   - area: BS Optical engineering
     institution: Zhejiang University
     date_start: 2021-09-01
-    date_end: 2025-06-31
+    date_end: 2024-10-17
     summary: |
       GPA: 3.88/4.0
 
