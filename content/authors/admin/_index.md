@@ -24,7 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: College of Optical engineering,\n Zhejiang University
+  - name: College of Optical Engineering,
+  -  Zhejiang University
     url: https://openai.com/
 
 # Social network links
