@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Perovskite Solar Cell
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanophotonics
+  - Light-matter interactions
 
 education:
   - area: PhD Artificial Intelligence
