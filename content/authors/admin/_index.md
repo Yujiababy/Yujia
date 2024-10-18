@@ -52,10 +52,10 @@ interests:
   - Light-matter interactions
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Optical engineering
+    institution: Zhejiang University
+    date_start: 2021-09-01
+    date_end: 2025-06-31
     summary: |
       GPA: 3.88/4.0
 
