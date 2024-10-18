@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 孙誉嘉
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yujia Sun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yujia
+last_name: Sun
 
 # Status emoji
 status:
@@ -66,7 +66,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.88/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
