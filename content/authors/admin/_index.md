@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '3210101142@zju.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Yujiababy
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Perovskite Solar Cell
   - Computational Linguistics
   - Information Retrieval
 
