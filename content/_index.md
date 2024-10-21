@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As an undergraduate majored in the optical science and engineering, I'm particularly interested in developing advanced optical systems and materials that push the boundaries of current photonic technologies. My primary research interests revolve around light-matter interactions, particularly focusing on advanced optical materials and devices. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My recent work involves exploring manganese-doped chiral lead perovskites for controlling exciton dynamics and circular polarization.
         
         Please reach out to collaborate 😃
     design:
