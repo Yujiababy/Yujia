@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        As an undergraduate majored in the optical science and engineering, I'm particularly interested in developing advanced optical systems and materials that push the boundaries of current photonic technologies. My primary research interests revolve around light-matter interactions, particularly focusing on advanced optical materials and devices. 
+        As an undergraduate majoring in Optical Science and Engineering, I am particularly interested in light-matter interaction and developing advanced optical systems and materials based on this principle to push the boundaries of current photonic technologies.
 
         My recent work involves exploring manganese-doped chiral lead perovskites for controlling exciton dynamics and circular polarization.
         
