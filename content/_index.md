@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research interests'
       subtitle: ''
       text: |-
         As an undergraduate majoring in Optical Science and Engineering, I am particularly interested in light-matter interaction and developing advanced optical systems and materials based on this principle to push the boundaries of current photonic technologies.
@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent Projects
+      title: Recent researches
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
