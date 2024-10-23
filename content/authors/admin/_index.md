@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 孙誉嘉
-
-# Name pronunciation (optional)
-name_pronunciation: Yujia Sun
+title: Yujia Sun
 
 # Full name (for SEO)
 first_name: Yujia
