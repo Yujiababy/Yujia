@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Romantic relationship
+summary: My boyfriend
 type: landing
 
 cascade:
@@ -11,9 +11,9 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: romantic
     content:
-      title: Teaching
+      title: Romantic relationship
       filters:
         folders:
           - teaching
